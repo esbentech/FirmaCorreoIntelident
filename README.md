@@ -39,3 +39,17 @@
 ---
 
 ## 📂 Estructura
+.
+├── assets/
+│   └── intelident-logo.png
+├── signature.html
+└── README.md
+---
+
+## 🛠️ Uso
+
+1. Clona el repositorio:
+   ```bash
+   git clone https://github.com/esbentech/FirmaCorreoIntelident.git
+
+   
